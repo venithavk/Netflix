@@ -22,11 +22,11 @@
 
 # Commands to Run
 
-  # npx create-react-app folder-name
+  - npx create-react-app folder-name
 
-  # npm install -D tailwindcss
+  - npm install -D tailwindcss
 
-  # npx tailwindcss init
+  - npx tailwindcss init
 
 
 
