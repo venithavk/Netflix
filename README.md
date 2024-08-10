@@ -1,12 +1,3 @@
-# npx create-react-app folder-name
-
-# npm install -D tailwindcss
-
-# npx tailwindcss init
-
-
-
-
 # Netflix GPT 
   
   - Create React App
@@ -27,4 +18,15 @@
     - NetflixGPT
         - Search Bar
         - Movie Suggestions
+
+
+# Commands to Run
+
+  # npx create-react-app folder-name
+
+  # npm install -D tailwindcss
+
+  # npx tailwindcss init
+
+
 
